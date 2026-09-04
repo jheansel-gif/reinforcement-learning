@@ -2,9 +2,6 @@
 # Reinforcement Learning
 
 Repository containing the activities, implementations, experiments, and documentation developed for the **Reinforcement Learning** course at **Universidad del Rosario**.
-# Reinforcement Learning
-
-Repository containing the activities, implementations, experiments, and documentation developed for the **Reinforcement Learning** course at **Universidad del Rosario**.
 
 ---
 
